@@ -1,0 +1,6 @@
+make --dry-run --always-make --keep-going --print-directory
+make: Entering directory '/home/fzp/source-code/project'
+make: Leaving directory '/home/fzp/source-code/project'
+ 
+make: *** No targets specified and no makefile found.  Stop.
+
